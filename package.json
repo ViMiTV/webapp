@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/ViMiTV/webapp#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "react-redux": "^7.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
